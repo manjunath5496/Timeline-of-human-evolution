@@ -679,3 +679,71 @@ Shortly after the appearance of the first reptiles, two branches split off. One 
 </tr>
 </tbody>
 </table>
+
+</br>
+<h2>Books </h2>
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(1).pdf" style="text-decoration:none;">Environmental Change and Human Development: Controlling Nature?</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(2).pdf" style="text-decoration:none;">Principles of Human Evolution</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(3).pdf" style="text-decoration:none;">Evolution and human behavior: Darwinian perspectives on hutmn nature</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(4).pdf" style="text-decoration:none;">The Story of Life in 25 Fossils: Tales of Intrepid Fossil Hunters and the Wonders of Evolution</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(5).pdf" style="text-decoration:none;">The Cambridge Dictionary of Human Biology and Evolution</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(6).pdf" style="text-decoration:none;">The Tell-Tale Brain: A Neuroscientist's Quest for What Makes Us Human</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(7).pdf" style="text-decoration:none;">Human Evolution: An Illustrated Introduction</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(8).pdf" style="text-decoration:none;"> Apes and Human Evolution </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(9).pdf" style="text-decoration:none;">Human Evolution</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(10).pdf" style="text-decoration:none;">Human, All Too Human II and Unpublished Fragments from the Period of Human) All Too Human 11 (Spring I 878-Fall I 879) </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(11).pdf" style="text-decoration:none;">How Language Began: Gesture and Speech in Human Evolution</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(12).pdf" style="text-decoration:none;">The Rise of Homo sapiens: The Evolution of Modern Thinking</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(13).pdf" style="text-decoration:none;">Ancestors in Our Genome: The New Science of Human Evolution</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(14).pdf" style="text-decoration:none;">Pleiadian Perspectives on Human Evolution</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(15).pdf" style="text-decoration:none;">The story of the human body : evolution, health, and disease</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(16).pdf" style="text-decoration:none;">The First Humans - Origin and Early Evolution of the Genus Homo</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(17).pdf" style="text-decoration:none;">Up from Eden: A Transpersonal View of Human Evolution</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(18).pdf" style="text-decoration:none;">Human Gene Evolution</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(19).pdf" style="text-decoration:none;">Why Only Us: Language and Evolution</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(20).pdf" style="text-decoration:none;">Human Evolution: A Very Short Introduction</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(21).pdf" style="text-decoration:none;">Evolution's Arrow: the direction of evolution and the future of humanity </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(22).pdf" style="text-decoration:none;">International Economics: Theory and Policy</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(23).pdf" style="text-decoration:none;">An Introduction to Nutrition</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(24).pdf" style="text-decoration:none;">Cell and Molecular Biology: What We Know & How We Found Out</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(25).pdf" style="text-decoration:none;">biofundamentals</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(26).pdf" style="text-decoration:none;">Kansas State University Human Nutrition (FNDH 400) Flexbook</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(27).pdf" style="text-decoration:none;">Principles of Microeconomics</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(28).pdf" style="text-decoration:none;">An Introduction to Cooperation and Mutualism</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(29).pdf" style="text-decoration:none;">Microeconomics: Markets, Methods and Models</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(30).pdf" style="text-decoration:none;">Economics - Theory Through Applications</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(31).pdf" style="text-decoration:none;">Good Corporation, Bad Corporation: Corporate Social Responsibility in the Global Economy</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(32).pdf" style="text-decoration:none;">The Economics of Food and Agricultural Markets</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(33).pdf" style="text-decoration:none;">Microbiology for Allied Health Students</a></li>
+
+</ul>
+
+   
+   
