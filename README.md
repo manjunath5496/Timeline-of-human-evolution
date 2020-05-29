@@ -1,4 +1,4 @@
-<h2>Timeline of human evolution </h2>
+<h2>Timeline of human evolution</h2>
 <table class="wikitable">
 <tbody>
 <tr>
@@ -87,13 +87,6 @@
 </tr>
 <tr>
 <td>&nbsp;</td>
-<td><a title="Bilateria" href="https://en.wikipedia.org/wiki/Bilateria">Bilateria</a></td>
-<td>Triploblasts / Worms</td>
-<td>560</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
 <td><a title="Nephrozoa" href="https://en.wikipedia.org/wiki/Nephrozoa">Nephrozoa</a></td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -127,13 +120,6 @@
 <td><a title="Gnathostomata" href="https://en.wikipedia.org/wiki/Gnathostomata">Gnathostomata</a></td>
 <td>Jawed fish</td>
 <td>460</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td><a title="Euteleostomi" href="https://en.wikipedia.org/wiki/Euteleostomi">Teleostomi</a></td>
-<td>Bony fish</td>
-<td>420</td>
-<td>&nbsp;</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
