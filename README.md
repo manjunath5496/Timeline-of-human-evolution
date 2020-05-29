@@ -773,7 +773,16 @@ Shortly after the appearance of the first reptiles, two branches split off. One 
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(47).pdf" style="text-decoration:none;">Where Are We Heading?: The Evolution of Humans and Things</a></li>
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(44).pdf" style="text-decoration:none;">Evolution's Bite: A Story of Teeth, Diet, and Human Origins</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(48).pdf" style="text-decoration:none;">Beyond Evolution: Human Nature and the Limits of Evolutionary Explanation</a></li>
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(49).pdf" style="text-decoration:none;">Second Nature: Economic Origins of Human Evolution </a></li>
+
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(50).pdf" style="text-decoration:none;">The Evolution of Human Consciousness: A Vision of Possibilities for Human Life</a></li>
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(51).pdf" style="text-decoration:none;">The first four million years of human evolution</a></li>
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(52).pdf" style="text-decoration:none;">The Runaway Brain: The Evolution Of Human Uniqueness</a></li>
 
 
 
