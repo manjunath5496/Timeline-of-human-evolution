@@ -766,6 +766,15 @@ Shortly after the appearance of the first reptiles, two branches split off. One 
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(44).pdf" style="text-decoration:none;">Evolution's Bite: A Story of Teeth, Diet, and Human Origins</a></li>
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(45).pdf" style="text-decoration:none;">Kluge: The Haphazard Construction of the Human Mind</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(46).pdf" style="text-decoration:none;">New Look at Human Evolution - Scientific American Aug 2003 (Vol 13 Number 2) </a></li>
+
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(47).pdf" style="text-decoration:none;">Where Are We Heading?: The Evolution of Humans and Things</a></li>
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(44).pdf" style="text-decoration:none;">Evolution's Bite: A Story of Teeth, Diet, and Human Origins</a></li>
+
 
 
 
