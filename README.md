@@ -721,18 +721,18 @@ Shortly after the appearance of the first reptiles, two branches split off. One 
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(20).pdf" style="text-decoration:none;">Human Evolution: A Very Short Introduction</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(21).pdf" style="text-decoration:none;">Evolution's Arrow: the direction of evolution and the future of humanity </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(22).pdf" style="text-decoration:none;">International Economics: Theory and Policy</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(23).pdf" style="text-decoration:none;">An Introduction to Nutrition</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(22).pdf" style="text-decoration:none;">Encyclopedia of Human Evolution and Prehistory</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(23).pdf" style="text-decoration:none;">The Science of Self-Empowerment: Awakening the New Human Story</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(24).pdf" style="text-decoration:none;">Cell and Molecular Biology: What We Know & How We Found Out</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(24).pdf" style="text-decoration:none;">The Evolution of Adam: What the Bible Does and Doesn't Say about Human Origins</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(25).pdf" style="text-decoration:none;">biofundamentals</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(26).pdf" style="text-decoration:none;">Kansas State University Human Nutrition (FNDH 400) Flexbook</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(27).pdf" style="text-decoration:none;">Principles of Microeconomics</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(25).pdf" style="text-decoration:none;">Paleontology and Geology of Laetoli: Human Evolution in Context</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(26).pdf" style="text-decoration:none;">The Evolution of Desire: Strategies of Human Mating</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(27).pdf" style="text-decoration:none;">The Evolution of Sexuality</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(28).pdf" style="text-decoration:none;">An Introduction to Cooperation and Mutualism</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(28).rar" style="text-decoration:none;">Evolution for Everyone: How Darwin's Theory Can Change the Way We Think About Our Lives</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(29).pdf" style="text-decoration:none;">Microeconomics: Markets, Methods and Models</a></li>                              
 
