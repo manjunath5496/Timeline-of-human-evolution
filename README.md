@@ -734,14 +734,40 @@ Shortly after the appearance of the first reptiles, two branches split off. One 
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(28).rar" style="text-decoration:none;">Evolution for Everyone: How Darwin's Theory Can Change the Way We Think About Our Lives</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(29).pdf" style="text-decoration:none;">Microeconomics: Markets, Methods and Models</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(29).pdf" style="text-decoration:none;">Human Evolution: Genes, Genealogies and Phylogenies</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(30).pdf" style="text-decoration:none;">Economics - Theory Through Applications</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(30).pdf" style="text-decoration:none;">Leonardo's Foot: How 10 Toes, 52 Bones, and 66 Muscles Shaped the Human World</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(31).pdf" style="text-decoration:none;">Good Corporation, Bad Corporation: Corporate Social Responsibility in the Global Economy</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(32).pdf" style="text-decoration:none;">The Economics of Food and Agricultural Markets</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(31).pdf" style="text-decoration:none;">Mate Choice: The Evolution of Sexual Decision Making from Microbes to Humans</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(32).pdf" style="text-decoration:none;">Relics of Eden: The Powerful Evidence of Evolution in Human DNA</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(33).pdf" style="text-decoration:none;">Microbiology for Allied Health Students</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(33).pdf" style="text-decoration:none;">Rethinking Human Evolution</a></li>
+
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(34).pdf" style="text-decoration:none;">Stone Tools and the Evolution of Human Cognition</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(35).pdf" style="text-decoration:none;">Survival of the Fattest: The Key to Human Brain Evolution</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(36).pdf" style="text-decoration:none;">The 10,000 Year Explosion: How Civilization Accelerated Human Evolution</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(37).pdf" style="text-decoration:none;">The Causes of Molecular Evolution</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(38).pdf" style="text-decoration:none;">The Dopaminergic Mind in Human Evolution and History</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(39).pdf" style="text-decoration:none;">The Evolution of the Human Head</a></li>
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(40).pdf" style="text-decoration:none;">The Lives of the Brain – Human Evolution and the Organ of Mind</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(41).pdf" style="text-decoration:none;">The Not-So-Intelligent Designer: Why Evolution Explains the Human Body and Intelligent Design Does Not</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(42).pdf" style="text-decoration:none;">50 Great Myths of Human Evolution: Understanding Misconceptions about Our Origins </a></li>
+
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(43).pdf" style="text-decoration:none;">A New Reality: Human Evolution for a Sustainable Future</a></li>
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(44).pdf" style="text-decoration:none;">Evolution's Bite: A Story of Teeth, Diet, and Human Origins</a></li>
+
+
+
+
 
 </ul>
 
