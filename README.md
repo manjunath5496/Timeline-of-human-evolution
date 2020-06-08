@@ -690,7 +690,7 @@ Shortly after the appearance of the first reptiles, two branches split off. One 
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(2).pdf" style="text-decoration:none;">Principles of Human Evolution</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(3).pdf" style="text-decoration:none;">Evolution and human behavior: Darwinian perspectives on hutmn nature</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(3).pdf" style="text-decoration:none;">Evolution and human behavior: Darwinian perspectives on human nature</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(4).pdf" style="text-decoration:none;">The Story of Life in 25 Fossils: Tales of Intrepid Fossil Hunters and the Wonders of Evolution</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(5).pdf" style="text-decoration:none;">The Cambridge Dictionary of Human Biology and Evolution</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(6).pdf" style="text-decoration:none;">The Tell-Tale Brain: A Neuroscientist's Quest for What Makes Us Human</a></li>
