@@ -721,69 +721,69 @@ Shortly after the appearance of the first reptiles, two branches split off. One 
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(20).pdf" style="text-decoration:none;">Human Evolution: A Very Short Introduction</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(21).pdf" style="text-decoration:none;">Evolution's Arrow: the direction of evolution and the future of humanity </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(22).pdf" style="text-decoration:none;">Encyclopedia of Human Evolution and Prehistory</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(23).pdf" style="text-decoration:none;">The Science of Self-Empowerment: Awakening the New Human Story</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(22).pdf" style="text-decoration:none;">Encyclopedia of Human Evolution and Prehistory</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(23).pdf" style="text-decoration:none;">The Science of Self-Empowerment: Awakening the New Human Story</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(24).pdf" style="text-decoration:none;">The Evolution of Adam: What the Bible Does and Doesn't Say about Human Origins</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(24).pdf" style="text-decoration:none;">The Evolution of Adam: What the Bible Does and Doesn't Say about Human Origins</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(25).pdf" style="text-decoration:none;">Paleontology and Geology of Laetoli: Human Evolution in Context</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(26).pdf" style="text-decoration:none;">The Evolution of Desire: Strategies of Human Mating</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(27).pdf" style="text-decoration:none;">The Evolution of Sexuality</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(25).pdf" style="text-decoration:none;">Paleontology and Geology of Laetoli: Human Evolution in Context</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(26).pdf" style="text-decoration:none;">The Evolution of Desire: Strategies of Human Mating</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(27).pdf" style="text-decoration:none;">The Evolution of Sexuality</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(28).rar" style="text-decoration:none;">Evolution for Everyone: How Darwin's Theory Can Change the Way We Think About Our Lives</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(28).rar" style="text-decoration:none;">Evolution for Everyone: How Darwin's Theory Can Change the Way We Think About Our Lives</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(29).pdf" style="text-decoration:none;">Human Evolution: Genes, Genealogies and Phylogenies</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(29).pdf" style="text-decoration:none;">Human Evolution: Genes, Genealogies and Phylogenies</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(30).pdf" style="text-decoration:none;">Leonardo's Foot: How 10 Toes, 52 Bones, and 66 Muscles Shaped the Human World</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(30).pdf" style="text-decoration:none;">Leonardo's Foot: How 10 Toes, 52 Bones, and 66 Muscles Shaped the Human World</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(31).pdf" style="text-decoration:none;">Mate Choice: The Evolution of Sexual Decision Making from Microbes to Humans</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(32).pdf" style="text-decoration:none;">Relics of Eden: The Powerful Evidence of Evolution in Human DNA</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(31).pdf" style="text-decoration:none;">Mate Choice: The Evolution of Sexual Decision Making from Microbes to Humans</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(32).pdf" style="text-decoration:none;">Relics of Eden: The Powerful Evidence of Evolution in Human DNA</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(33).pdf" style="text-decoration:none;">Rethinking Human Evolution</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(33).pdf" style="text-decoration:none;">Rethinking Human Evolution</a></li>
 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(34).pdf" style="text-decoration:none;">Stone Tools and the Evolution of Human Cognition</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(34).pdf" style="text-decoration:none;">Stone Tools and the Evolution of Human Cognition</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(35).pdf" style="text-decoration:none;">Survival of the Fattest: The Key to Human Brain Evolution</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(35).pdf" style="text-decoration:none;">Survival of the Fattest: The Key to Human Brain Evolution</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(36).pdf" style="text-decoration:none;">The 10,000 Year Explosion: How Civilization Accelerated Human Evolution</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(36).pdf" style="text-decoration:none;">The 10,000 Year Explosion: How Civilization Accelerated Human Evolution</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(37).pdf" style="text-decoration:none;">The Causes of Molecular Evolution</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(38).pdf" style="text-decoration:none;">The Dopaminergic Mind in Human Evolution and History</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(37).pdf" style="text-decoration:none;">The Causes of Molecular Evolution</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(38).pdf" style="text-decoration:none;">The Dopaminergic Mind in Human Evolution and History</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(39).pdf" style="text-decoration:none;">The Evolution of the Human Head</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(39).pdf" style="text-decoration:none;">The Evolution of the Human Head</a></li>
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(40).pdf" style="text-decoration:none;">The Lives of the Brain – Human Evolution and the Organ of Mind</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(41).pdf" style="text-decoration:none;">The Not-So-Intelligent Designer: Why Evolution Explains the Human Body and Intelligent Design Does Not</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(40).pdf" style="text-decoration:none;">The Lives of the Brain – Human Evolution and the Organ of Mind</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(41).pdf" style="text-decoration:none;">The Not-So-Intelligent Designer: Why Evolution Explains the Human Body and Intelligent Design Does Not</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(42).pdf" style="text-decoration:none;">50 Great Myths of Human Evolution: Understanding Misconceptions about Our Origins </a></li>
-
-
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(43).pdf" style="text-decoration:none;">A New Reality: Human Evolution for a Sustainable Future</a></li>
-
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(44).pdf" style="text-decoration:none;">Evolution's Bite: A Story of Teeth, Diet, and Human Origins</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(42).pdf" style="text-decoration:none;">50 Great Myths of Human Evolution: Understanding Misconceptions about Our Origins </a></li>
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(45).pdf" style="text-decoration:none;">Kluge: The Haphazard Construction of the Human Mind</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(43).pdf" style="text-decoration:none;">A New Reality: Human Evolution for a Sustainable Future</a></li>
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(46).pdf" style="text-decoration:none;">New Look at Human Evolution - Scientific American Aug 2003 (Vol 13 Number 2) </a></li>
-
-
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(47).pdf" style="text-decoration:none;">Where Are We Heading?: The Evolution of Humans and Things</a></li>
-
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(48).pdf" style="text-decoration:none;">Beyond Evolution: Human Nature and the Limits of Evolutionary Explanation</a></li>
-
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(49).pdf" style="text-decoration:none;">Second Nature: Economic Origins of Human Evolution </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(44).pdf" style="text-decoration:none;">Evolution's Bite: A Story of Teeth, Diet, and Human Origins</a></li>
 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(50).pdf" style="text-decoration:none;">The Evolution of Human Consciousness: A Vision of Possibilities for Human Life</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(45).pdf" style="text-decoration:none;">Kluge: The Haphazard Construction of the Human Mind</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(51).pdf" style="text-decoration:none;">The first four million years of human evolution</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(46).pdf" style="text-decoration:none;">New Look at Human Evolution - Scientific American Aug 2003 (Vol 13 Number 2) </a></li>
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/heI(52).pdf" style="text-decoration:none;">The Runaway Brain: The Evolution Of Human Uniqueness</a></li>
 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(47).pdf" style="text-decoration:none;">Where Are We Heading?: The Evolution of Humans and Things</a></li>
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(48).pdf" style="text-decoration:none;">Beyond Evolution: Human Nature and the Limits of Evolutionary Explanation</a></li>
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(49).pdf" style="text-decoration:none;">Second Nature: Economic Origins of Human Evolution </a></li>
+
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(50).pdf" style="text-decoration:none;">The Evolution of Human Consciousness: A Vision of Possibilities for Human Life</a></li>
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(51).pdf" style="text-decoration:none;">The first four million years of human evolution</a></li>
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-human-evolution/blob/master/hel(52).pdf" style="text-decoration:none;">The Runaway Brain: The Evolution Of Human Uniqueness</a></li>
 
 
 
